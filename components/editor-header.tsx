@@ -6,7 +6,7 @@ export default function EditorHeader() {
     <header className="border-b px-4 py-3 flex items-center justify-between bg-background">
       <div className="flex items-center gap-2">
         <Code2 className="h-5 w-5 text-primary" />
-        <h1 className="text-lg font-semibold">Ocean Editor</h1>
+        <h1 className="text-lg font-semibold">SMVM Code Editor</h1>
       </div>
 
       <div className="flex items-center gap-2">
